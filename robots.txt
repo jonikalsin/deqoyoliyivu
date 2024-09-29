@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://deqoyoliyivu.netlify.app/sitemap.xml
